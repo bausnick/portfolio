@@ -1,2 +1,2 @@
 # portfolio
-Public portfolio highlighting career accomplishment
+Public portfolio highlighting career accomplishments
