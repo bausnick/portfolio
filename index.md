@@ -13,10 +13,8 @@
 * further
 
 ### Full Stack Travel Webpage
-* Explaination
-* further
-* further
-
+* Developed a full-stack travel application featuring a public-facing website and an administrative dashboard for managing travel listings. Built a Node.js and Express backend with a MongoDB database to store and retrieve application data through RESTful API endpoints. Implemented an Angular single-page application (SPA) with functionality to view, add, and edit travel listings, user registrations, login credentials, and authentication.
+* Technologies: Javascript, Node.js, Express.js, Angular, MongoDB, Mongoose, REST APIs, Handlebars, Bootstrap, Git/GitHub.
 ---
 
 ## Education
