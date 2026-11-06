@@ -18,11 +18,22 @@
 * Technologies: Javascript, Node.js, Express.js, Angular, MongoDB, Mongoose, REST APIs, Handlebars, Bootstrap, Git/GitHub.
   
 * Insert WebPage
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="images/AdminAdd.png" alt="Admin Add Trip" style="width: 28%; height: auto;">
-    <img src="images/travlr.png" alt="Admin Trips" style="width: 48%; height: auto;">
-    <img src="images/SequenceDiagram.png" alt="Application Architecture" style="width: 48%; height: auto;">
+<table style="width:100%; table-layout:fixed; border:none;">
+<tr>
+<td style="width:35%; text-align:center; vertical-align:middle; border:none;">
+<img src="images/AdminAdd.png" alt="Admin Add Trip" style="height:350px; width:auto; max-width:100%; object-fit:contain;">
+</td>
+<td style="width:65%; text-align:center; vertical-align:middle; border:none;">
+<img src="images/travlr.png" alt="Admin Trips" style="height:350px; width:auto; max-width:100%; object-fit:contain;">
+</td>
+</tr>
+</table>
+
+<div style="text-align:center; margin-top:20px;">
+<img src="images/SequenceDiagram.png" alt="Application Architecture" style="width:85%; height:auto;">
 </div>
+
+
 ---
 
 ## Education
