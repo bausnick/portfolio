@@ -20,6 +20,7 @@
 * Insert WebPage
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
     <img src="images/AdminAdd.png" alt="Admin Add Trip" style="width: 28%; height: auto;">
+    <img src="images/travlr.png" alt="Admin Trips" style="width: 48%; height: auto;">
     <img src="images/SequenceDiagram.png" alt="Application Architecture" style="width: 48%; height: auto;">
 </div>
 ---
