@@ -8,16 +8,15 @@
 ## Projects and Applications
 
 ### Appointment Book
-* Explaination
-* further
-* further
+* Upgraded a Java-based appointment management application to use persistent SQLite database storage instead of temporary in-memory data structures. Implemented a layered architecture separating data models, database operations, and business logic. Expanded automated testing and configured GitHub Actions to run tests as part of a continuous integration workflow.
+  
+* Technologies & Tools: Java, SQLite, JDBC, Maven, JUnit 5, Git/GitHub, GitHub Actions.
 
 ### Full Stack Travel Webpage
-* Developed a full-stack travel application featuring a public-facing website and an administrative dashboard for managing travel listings. Built a Node.js and Express backend with a MongoDB database to store and retrieve application data through RESTful API endpoints. Implemented an Angular single-page application (SPA) with functionality to view, add, and edit travel listings, user registrations, login credentials, and authentication.
+* Enhanced a full-stack travel application featuring a public-facing website and an administrative dashboard. Worked with an Angular frontend and a Node.js/Express backend connected to MongoDB through Mongoose. Implemented and refined REST API functionality for retrieving and managing travel listings, along with administrative authentication and access.
   
-* Technologies: Javascript, Node.js, Express.js, Angular, MongoDB, Mongoose, REST APIs, Handlebars, Bootstrap, Git/GitHub.
-  
-* Insert WebPage
+* JavaScript, Node.js, Express.js, Angular, MongoDB, Mongoose, REST APIs, Handlebars, Bootstrap, Git/GitHub.
+
 <table style="width:100%; table-layout:fixed; border:none;">
 <tr>
 <td style="width:35%; text-align:center; vertical-align:middle; border:none;">
@@ -37,9 +36,9 @@
 ---
 
 ## Education
-* **B.S. in Computer Science (Software Engineering) - SNHU 2026**
-* **A.A.S in Physical Therapist Assistant - Blinn College 2019**
-* **B.S. in Kinesiology - Texas A&M 2013**
+* B.S. in Computer Science (Software Engineering) - SNHU 2026
+* A.A.S in Physical Therapist Assistant - Blinn College 2019
+* B.S. in Kinesiology - Texas A&M 2013**
 
 ## Professional Experience
 * 7 Years in hospital and rehabilitation settings as a licensed Physical Therapist Assistant
