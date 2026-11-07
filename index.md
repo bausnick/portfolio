@@ -12,7 +12,7 @@
 
 * Technologies & Tools: Java, SQLite, JDBC, Maven, JUnit 5, Git/GitHub, GitHub Actions.
   
-  * Implemented JDBC-based database operations using parameterized SQL queries to insert and retrieve appointment records. Used prepared statements and automatic resource management to interact with the SQLite database safely and reliably.
+* Implemented JDBC-based database operations using parameterized SQL queries to insert and retrieve appointment records. Used prepared statements and automatic resource management to interact with the SQLite database safely and reliably.
 
 <div style="text-align:center; margin:20px 0;">
   <img src="images/DAOAddGetAppt.png"
@@ -42,7 +42,7 @@
 ### Full Stack Travel Webpage
 * Enhanced a full-stack travel application featuring a public-facing website and an administrative dashboard. Worked with an Angular frontend and a Node.js/Express backend connected to MongoDB through Mongoose. Implemented and refined REST API functionality for retrieving and managing travel listings, along with administrative authentication and access.
   
-* * **Technologies & Tools:** JavaScript, Node.js, Express.js, Angular, MongoDB, Mongoose, REST APIs, Handlebars, Bootstrap, Git/GitHub.
+* **Technologies & Tools:** JavaScript, Node.js, Express.js, Angular, MongoDB, Mongoose, REST APIs, Handlebars, Bootstrap, Git/GitHub.
 
 <table style="width:100%; table-layout:fixed; border:none;">
 <tr>
